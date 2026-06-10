@@ -1,0 +1,14 @@
+Rahul Sharma
+Email: rahulsharma@gmail.com
+Phone: 9876543210
+
+Skills:
+Python, SQL, Machine Learning, NLP, Pandas, Scikit Learn, Data Visualization
+
+Projects:
+Built a machine learning model for student performance prediction.
+Worked on NLP-based text classification project.
+Created dashboards using Python and Pandas.
+
+Education:
+B.Tech in Computer Science
